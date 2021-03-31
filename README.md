@@ -50,7 +50,7 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-*** [Node.js](https://nodejs.org/en/) *** [Express](https://expressjs.com/) *** [React](https://reactjs.org) *** [React Native](https://facebook.github.io/react-native/) *** [Expo](https://expo.io/) ***
+*** [Node.js](https://nodejs.org/en/) *** [Express](https://expressjs.com/) *** [React](https://reactjs.org) *** [React Native](https://facebook.github.io/react-native/) *** [TypeScript](https://www.typescriptlang.org/) *** [JavaScript](https://www.javascript.com/) ***
 
 ## 📝 Licença
 
